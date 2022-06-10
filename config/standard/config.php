@@ -1,5 +1,5 @@
 <?php
-$db_host = "";
-$db_name = "";
-$db_user = "";
-$db_pass = "";
+$db_host = " localhost:3306";
+$db_name = "collabtive";
+$db_user = "caola";
+$db_pass = "Ait81@9l3";
